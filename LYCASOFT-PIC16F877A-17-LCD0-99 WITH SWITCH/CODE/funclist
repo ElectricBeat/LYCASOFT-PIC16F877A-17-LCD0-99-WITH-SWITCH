@@ -1,0 +1,9 @@
+___awdiv: CODE, 1932 0 116
+_Lcd_Intialization: CODE, 1522 0 19
+_Lcd_String: CODE, 1541 0 33
+_Lcd_Command: CODE, 1574 0 47
+___awmod: CODE, 1830 0 102
+_main: CODE, 1739 0 91
+_Lcd_Data: CODE, 1621 0 47
+_divider: CODE, 1668 0 71
+Total: 526
